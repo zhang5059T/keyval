@@ -1,0 +1,1 @@
+FROM wirelessr/pyflink:1.17.1-scala_2.12-python_3.7
