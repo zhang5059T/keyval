@@ -1,0 +1,1 @@
+FROM ghcr.io/apache/flink-kubernetes-operator:91d67d9
