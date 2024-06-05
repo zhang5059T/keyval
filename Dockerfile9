@@ -1,0 +1,2 @@
+FROM 172.18.172.12/pyflink/spark3-seatunnal2.3.5:v1
+ADD seatunnel.streaming.conf /data/
