@@ -1,4 +1,4 @@
-FROM spark:3.5.0-scala2.12-java17-ubuntu
+FROM galexiou/spark3.3-h3.3.4:j17-root
 USER root
 ENV SEATUNNEL_VERSION="2.3.5"
 ENV SEATUNNEL_HOME="/opt/seatunnel"
